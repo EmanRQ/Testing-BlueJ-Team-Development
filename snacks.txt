@@ -1,0 +1,10 @@
+Caramel Popcorn [L],12.0
+Cheezy Nachos,8.0
+Solo Combo,15.0
+Twin Combo,25.0
+Family Feast,35.0
+Buttermilk Chicken,15.5
+Cheezy Sausages,8.5
+Chicken Tender,18.5
+-
+-

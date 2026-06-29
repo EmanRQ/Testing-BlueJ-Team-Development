@@ -1,0 +1,12 @@
+--- DATE: 2026-06-30 ---
+
+--- NEXA RECEIPT ---
+Movie         : Batman(The Reborn)
+Tickets (4)   : RM 80.00
+Snack         : Family Feast (RM 35.00)
+Discount      : RM 0.00
+--------------------
+Grand Total   : RM 121.90
+(Incl. 6% Tax)
+------------------------------------
+

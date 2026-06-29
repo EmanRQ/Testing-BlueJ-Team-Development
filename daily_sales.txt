@@ -1,0 +1,55 @@
+
+
+---------------------------------
+Date: Mon Jun 29 23:35:16 SGT 2026
+Name: Abuto
+IC Number: 123425678
+VIP Status: true
+*******************
+Movie: Batman(The Reborn)
+Quantity: 2
+Ticket Price: RM 15.0
+Snack: Cheezy Sausages (RM 8.5)
+Discount: RM 14.0
+Total Bill (inc Tax): RM 25.46
+---------------------------------
+
+
+---------------------------------
+Date: Tue Jun 30 00:13:00 SGT 2026
+Name: Eman
+IC Number: 070801012065
+VIP Status: false
+*******************
+
+
+---------------------------------
+Date: Tue Jun 30 00:17:48 SGT 2026
+Name: Mud
+IC Number: 021312431212
+VIP Status: false
+*******************
+--- DATE: 2026-06-30 ---
+
+--- NEXA RECEIPT ---
+Movie         : Dollhouse
+Tickets (3)   : RM 40.50
+Snack         : Caramel Popcorn [L] (RM 12.00)
+Discount      : RM 0.00
+--------------------
+Grand Total   : RM 55.65
+(Incl. 6% Tax)
+------------------------------------
+
+--- DATE: 2026-06-30 ---
+
+--- NEXA RECEIPT ---
+Movie         : Batman(The Reborn)
+Tickets (4)   : RM 84.00
+Snack         : Caramel Popcorn [L] (RM 12.00)
+Discount      : RM 0.00
+--------------------
+Grand Total   : RM 101.76
+(Incl. 6% Tax)
+------------------------------------
+
