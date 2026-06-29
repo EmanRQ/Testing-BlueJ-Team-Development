@@ -1,0 +1,4 @@
+Nabil, Leader
+Eman, Programmer
+Xenk, Documentation
+Hamud, UML & USE Case Diagram
