@@ -23,7 +23,7 @@ public class NEXA_Main
         System.out.println("Hello Visitor ^ ^ ");
         System.out.println("               >  ");
         
-        System.out.println("Before that if you can see this line means Team Development Features works!!!");
+        System.out.println("Before that if you can see this line means Team Development Features works!!! >-<");
         
         System.out.print("\nAre you NEXA members? [Y/N]: ");
         char answer = in.next().toUpperCase().charAt(0);
